@@ -1,6 +1,6 @@
 # NLP_Project
 
-# The primary obstacle in developing Question Answering (QA) models revolves around untangling the impact of parametric knowledge (knowledge inherent in model weights) and contextual knowledge (external information) on generating answers during the inference process. To overcome this challenge, our project introduces a solution known as "post-hoc knowledge injection." This strategy seeks to mitigate the complexity of choosing among multiple external knowledge sources, ultimately enhancing the informativeness of the generated answers.
+## The primary obstacle in developing Question Answering (QA) models revolves around untangling the impact of parametric knowledge (knowledge inherent in model weights) and contextual knowledge (external information) on generating answers during the inference process. To overcome this challenge, our project introduces a solution known as "post-hoc knowledge injection." This strategy seeks to mitigate the complexity of choosing among multiple external knowledge sources, ultimately enhancing the informativeness of the generated answers.
 
 ## A subset of the NQ dataset (above 35GB, hence cannot be added here) is used for the purpose of this project. Link to dataset: https://ai.google.com/research/NaturalQuestions/download
 ## Firstly, the preprocessing is done to the above mentioned data as part of the NQDataset_pre_processing.ipynb notebook.
